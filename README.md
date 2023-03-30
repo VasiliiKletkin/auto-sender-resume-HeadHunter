@@ -1,4 +1,4 @@
-# Auto sender resume
+# Auto sender resume HeadHunter (hh)
 
 ## Описание проекта
 
