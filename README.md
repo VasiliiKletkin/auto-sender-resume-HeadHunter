@@ -11,7 +11,7 @@
 ## Установка и запуск скрипт:
 
 * Установить расширение на Chrome —  **[Scripty](https://chrome.google.com/webstore/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam)**
-* Автоматическая установка:  **[Установить скрипт](https://scripty.abhisheksatre.com/#/share/script_1680207531516)**
+* Автоматическая установка:  **[Установить скрипт](https://scripty.abhisheksatre.com/#/edit/script_1683102991232)**
 
 ## Языки:
 
