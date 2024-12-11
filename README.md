@@ -1,7 +1,5 @@
 # Auto sender resume HeadHunter (hh)
 
-## Описание проекта
-
 **Auto Sender Resume HeadHunter** — это скрипт для автоматической отправки откликов на HeadHunter (hh).
 
 ## Цель:
